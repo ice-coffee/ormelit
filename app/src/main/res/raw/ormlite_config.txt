@@ -1,0 +1,18 @@
+#
+# generated on 2016/09/05 04:25:03
+#
+# --table-start--
+dataClass=com.zhy.zhy_ormlite.bean.User
+tableName=User
+# --table-fields-start--
+# --field-start--
+fieldName=id
+generatedId=true
+# --field-end--
+# --field-start--
+fieldName=name
+columnName=name
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################
